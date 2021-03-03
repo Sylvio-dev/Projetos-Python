@@ -1,2 +1,2 @@
-# Projetos-Python
- Meu primeiro repositório com algumas aplicações em Python.
+# Projetos de Python
+ Meu primeiro repositório com algumas aplicações feitas em Python.
