@@ -19,7 +19,7 @@ elif opção == 4:
     total = preço + (preço * 20 / 100)
     totalparc = int(input('São quantas parcelas ?'))
     parcela = total / totalparc
-    print ('Sua compra será parcelada em {}x de R${:.2f} COM JUROS'.format(totalparc, parcela))
+    print (f'Sua compra será parcelada em {totalparc}x de R${parcela:.2f} COM JUROS')
 else:
     total = preço
     print('\033[31mOPÇÃO DE PAGAMENTO INVÁLIDA. Tente novamente\033[m!')
